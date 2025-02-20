@@ -1,5 +1,7 @@
 title: El_photography
-url: https://samd97.github.io/el_photo/
+description: A simple portfolio AKR
+#url: https://samd97.github.io/el_photo/
+url: "http://localhost:4000"
 baseurl: 
 
 author: Disha Patel
